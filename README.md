@@ -30,7 +30,7 @@ Proyecto realizado para practicar validaciones con Javascript.
 ### Tecnologías utilizadas
 
 * [HTML5](https://developer.mozilla.org/es/docs/Glossary/HTML5)
-* [CSS3](https://developer.mozilla.org/es/docs/Web/CSS)
+* [Tailwind](https://tailwindcss.com/)
 * [Javascript](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
 
